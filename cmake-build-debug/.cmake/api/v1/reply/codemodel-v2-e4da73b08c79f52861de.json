@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Zayas_Oscar_Examen",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Zayas_Oscar_Examen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Zayas_Oscar_Examen-Debug-ce5729f40e622a1fdd7d.json",
+					"name" : "Zayas_Oscar_Examen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/oscca/OneDrive/Datos adjuntos/Documentos/GitHub/Zayas_Oscar_Examen/cmake-build-debug",
+		"source" : "C:/Users/oscca/OneDrive/Datos adjuntos/Documentos/GitHub/Zayas_Oscar_Examen"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

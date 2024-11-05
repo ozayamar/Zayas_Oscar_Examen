@@ -1,0 +1,3 @@
+C:/Users/oscca/OneDrive/Datos adjuntos/Documentos/GitHub/Zayas_Oscar_Examen/cmake-build-debug/CMakeFiles/Zayas_Oscar_Examen.dir
+C:/Users/oscca/OneDrive/Datos adjuntos/Documentos/GitHub/Zayas_Oscar_Examen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/oscca/OneDrive/Datos adjuntos/Documentos/GitHub/Zayas_Oscar_Examen/cmake-build-debug/CMakeFiles/rebuild_cache.dir

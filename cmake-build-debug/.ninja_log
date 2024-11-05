@@ -1,0 +1,16 @@
+# ninja log v6
+4	394	7525036161379163	build.ninja	6bf87fe08593e8a0
+44	144	7525036163143817	CMakeFiles/Zayas_Oscar_Examen.dir/Dia_Semana.cpp.obj	d90afc0b8c6d2996
+50	156	7525036163207862	CMakeFiles/Zayas_Oscar_Examen.dir/Promedio.cpp.obj	de9bedca6c42b260
+56	165	7525036163269452	CMakeFiles/Zayas_Oscar_Examen.dir/Promocion.cpp.obj	f23b422e5c42a651
+33	626	7525036163045374	CMakeFiles/Zayas_Oscar_Examen.dir/main.cpp.obj	6f07e3858ecbbced
+9	576	7525041209315269	CMakeFiles/Zayas_Oscar_Examen.dir/Numero_Analisis.cpp.obj	f2a7d454ec92ff61
+16	603	7525042792866416	CMakeFiles/Zayas_Oscar_Examen.dir/Numero_Analisis.cpp.obj	f2a7d454ec92ff61
+7	612	7525042792774568	CMakeFiles/Zayas_Oscar_Examen.dir/main.cpp.obj	6f07e3858ecbbced
+612	718	7525042798810000	Zayas_Oscar_Examen.exe	b4784d01b1b81065
+8	510	7525043858561665	CMakeFiles/Zayas_Oscar_Examen.dir/Numero_Analisis.cpp.obj	f2a7d454ec92ff61
+511	620	7525043863590103	Zayas_Oscar_Examen.exe	b4784d01b1b81065
+9	599	7525044578442463	CMakeFiles/Zayas_Oscar_Examen.dir/Numero_Analisis.cpp.obj	f2a7d454ec92ff61
+600	695	7525044584346471	Zayas_Oscar_Examen.exe	b4784d01b1b81065
+7	562	7525044704597994	CMakeFiles/Zayas_Oscar_Examen.dir/Numero_Analisis.cpp.obj	f2a7d454ec92ff61
+564	680	7525044710159581	Zayas_Oscar_Examen.exe	b4784d01b1b81065
